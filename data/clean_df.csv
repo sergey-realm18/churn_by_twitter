@@ -1,0 +1,650 @@
+,carrier,location,date_time,clean_text,fact,emoji,month,hour,sense_dummy,text_len,len_emoji,day,day_of_month,part_of_day,seconds,sin_time,cos_time
+0,VerizonSupport,"Pennsylvania, USA",2021-03-30 23:59:19,issue closed caption walking dead show display part,1,[],3,23,-1,51,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+1,VerizonSupport,,2021-03-30 23:56:55,this could due regional restriction have checked cgs,1,[],3,23,-1,52,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+2,VerizonSupport,,2021-03-30 23:55:30,happy help anything related fios twitter please follow help tjl,0,[],3,23,1,63,0,1,30,evening,30,0.0021816598343367697,0.9999976201773518
+3,VerizonSupport,,2021-03-30 23:55:24,know think help literally month trying help the la,1,[],3,23,0,50,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+4,VerizonSupport,,2021-03-30 23:54:26,happy look please send direct message follow verizonsupport may respond,0,[],3,23,1,71,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+5,VerizonSupport,,2021-03-30 23:53:56,sorry hear experience happy assist way,0,[],3,23,1,38,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+6,VerizonSupport,Ocean County N.J.  Sarasota Fl,2021-03-30 23:52:41,believe mon get together,1,[],3,23,0,24,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+7,VerizonSupport,"ÜT: 40.685844,-73.976786",2021-03-30 23:52:20,why make speaking representative difficult,0,"['🤬', '🤬', '🤬']",3,23,-1,42,3,1,30,evening,20,0.001454440530541535,0.9999989423008122
+8,VerizonSupport,,2021-03-30 23:51:39,help our internet went hour ago south orange thanks,1,[],3,23,1,51,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+9,VerizonSupport,"Stockholm, Sweden",2021-03-30 23:36:59,wanted let know taken people minute figure get free,0,[],3,23,1,51,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+10,VerizonSupport,"Austin, Texas",2021-03-30 23:36:44,like said cut auto payment hell maybe,1,[],3,23,0,37,0,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+11,VerizonSupport,"Stockholm, Sweden",2021-03-30 23:36:20,man ordered jetpack dongle guy past weekend day shipping supposed,1,[],3,23,-1,65,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+12,VerizonSupport,,2021-03-30 23:35:45,problem always always happy help cgs,0,[],3,23,1,36,0,1,30,evening,45,0.0032724865065266256,0.9999946454016965
+13,VerizonSupport,,2021-03-30 23:34:05,needed thank,1,[],3,23,0,12,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+14,VerizonSupport,USA,2021-03-30 23:34:04,always refused auto pay option learned hard way,0,[],3,23,-1,47,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+15,VerizonSupport,"ÜT: 40.689597,-74.176851",2021-03-30 23:33:04,internet service scheduled call customer service,1,[],3,23,0,48,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+16,VerizonSupport,United States,2021-03-30 23:32:52,believe mon get together,1,[],3,23,0,24,0,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+17,VerizonSupport,,2021-03-30 23:32:38,happy welcome verizon family please check availability start,0,[],3,23,1,60,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+18,VerizonSupport,Ocean County N.J.  Sarasota Fl,2021-03-30 23:32:15,turning auto pay tired paying hold,0,[],3,23,-1,34,0,1,30,evening,15,0.0010908305661643995,0.999999405044161
+19,VerizonSupport,,2021-03-30 23:30:22,optimum wifi,0,[],3,23,1,12,0,1,30,evening,22,0.0015998844651418896,0.9999987201840301
+20,VerizonSupport,,2021-03-30 23:29:45,sorry hear trouble internet service happy assist,0,[],3,23,1,48,0,1,30,evening,45,0.0032724865065266256,0.9999946454016965
+21,VerizonSupport,United States,2021-03-30 23:26:55,did billed month account vacation suspension,1,[],3,23,0,44,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+22,VerizonSupport,All are welcome in Indy! 💖,2021-03-30 23:22:02,did billed month account vacation suspension,1,[],3,23,0,44,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+23,VerizonSupport,,2021-03-30 23:21:09,certainly want make sure service signed promotion,0,[],3,23,1,49,0,1,30,evening,9,0.0006544984227701476,0.9999997858158843
+24,VerizonSupport,"Wisconsin, USA",2021-03-30 23:19:25,experience switch verizon last year absolutely suck,1,[],3,23,1,51,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+25,VerizonSupport,,2021-03-30 23:18:53,happy assist way did need assistance today cgs,0,[],3,23,1,46,0,1,30,evening,53,0.003854259222051758,0.9999925723153393
+26,VerizonSupport,Ocean County N.J.  Sarasota Fl,2021-03-30 23:02:55,like said cut auto payment hell maybe,1,[],3,23,0,37,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+27,VerizonSupport,America🇺🇲 Europe🇪🇺,2021-03-30 23:01:52,like said cut auto payment hell maybe understand,1,[],3,23,0,48,0,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+28,VerizonSupport,America🇺🇲 Europe🇪🇺,2021-03-30 23:00:20,did billed month account vacation suspension,1,[],3,23,0,44,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+29,VerizonSupport,,2021-03-30 22:52:51,hello happy review question may please follow may better assist,0,[],3,22,1,63,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+30,ATT,"Washington, D.C.",2021-03-30 22:52:39,when verizon catch live chat folk speedy attenti,1,[],3,22,1,48,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+31,VerizonSupport,NC ,2021-03-30 22:51:19,did billed month account vacation suspension,1,[],3,22,0,44,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+32,VerizonSupport,United States,2021-03-30 22:50:43,did billed month account vacation suspension,1,[],3,22,0,44,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+33,VerizonSupport,Ocean County N.J.  Sarasota Fl,2021-03-30 22:50:29,turning auto pay tired paying hold,0,[],3,22,-1,34,0,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+34,VerizonSupport,,2021-03-30 22:49:19,would glad ensure get help need lisa may best assist,0,[],3,22,1,52,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+35,VerizonSupport,Ocean County N.J.  Sarasota Fl,2021-03-30 22:46:11,did billed month account vacation suspension,1,[],3,22,0,44,0,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+36,VerizonSupport,United States,2021-03-30 22:37:59,then find someone help year old woman,1,[],3,22,1,37,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+37,VerizonSupport,"Stockholm, Sweden",2021-03-30 22:36:41,how today fios team family love,0,[],3,22,1,31,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+38,ATT,"Houston, TX",2021-03-30 22:36:33,and reference verizon throttled firefight,1,[],3,22,0,41,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+39,VerizonSupport,,2021-03-30 22:36:07,sorry helpful this option department jmb,0,[],3,22,-1,40,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+40,VerizonSupport,PGH by way of NJ ,2021-03-30 22:35:23,sent,1,[],3,22,0,4,0,1,30,evening,23,0.0016726064199428861,0.9999986011929036
+41,VerizonSupport,United States,2021-03-30 22:35:05,not helpful,1,[],3,22,0,11,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+42,VZWSupport,"Houston, TX",2021-03-30 22:34:11,pretty funny given cut,0,[],3,22,1,22,0,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+43,VerizonSupport,,2021-03-30 22:34:06,hey hannah sorry hear issue happy help please follow,0,[],3,22,1,52,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+44,VerizonSupport,,2021-03-30 22:32:58,apologize inconvenience provide earliest date available what check,1,[],3,22,1,66,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+45,VerizonSupport,,2021-03-30 22:32:56,apologize inconvenience promotion available state some state hav,1,[],3,22,1,64,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+46,VerizonSupport,,2021-03-30 22:32:26,great question verizon fios offer residential landline internet cable service sxs,0,[],3,22,1,81,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+47,VerizonSupport,PGH by way of NJ ,2021-03-30 22:30:06,verizon help for week able watch ondemand say disabled and,1,[],3,22,1,58,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+48,VerizonSupport,,2021-03-30 22:27:25,get someone help billing last month call,1,[],3,22,0,40,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+49,VerizonSupport,,2021-03-30 22:26:45,your representative tim new jersey actually said since contract,1,[],3,22,1,63,0,1,30,evening,45,0.0032724865065266256,0.9999946454016965
+50,VerizonSupport,,2021-03-30 22:24:24,also regarding gift card term met receive email redeem gift card unfortu,1,[],3,22,0,72,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+51,VerizonSupport,,2021-03-30 22:24:04,want make sure provide proper assistnace due previous interaction clarify,1,[],3,22,1,73,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+53,ATT,,2021-03-30 22:18:31,thanks reaching heard concern provide support,1,[],3,22,1,45,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+54,VerizonSupport,"Arlington, VA, USA",2021-03-30 22:16:48,stream but confidence low come due week able get,1,[],3,22,1,48,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+55,VerizonSupport,,2021-03-30 22:11:26,apology understand need calling are contacting regarding stream box,1,[],3,22,0,67,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+56,VerizonSupport,,2021-03-30 22:08:03,going wxw,1,[],3,22,0,9,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+57,VerizonSupport,"Arlington, VA, USA",2021-03-30 22:05:45,what odds take another hour get operator,1,[],3,22,0,40,0,1,30,evening,45,0.0032724865065266256,0.9999946454016965
+58,VerizonSupport,,2021-03-30 22:04:05,thanks clarity occurred see frustrating regard gift card,0,[],3,22,-1,56,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+59,VerizonSupport,"Arlington, VA, USA",2021-03-30 22:01:03,now hour online chat support tell call phone number,1,[],3,22,0,51,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+60,VerizonSupport,,2021-03-30 22:00:07,cause want make good platform support dgr,0,[],3,22,1,41,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+61,VerizonSupport,"Arlington, VA, USA",2021-03-30 21:58:47,long story short wait month stream box unable redeem offe,1,[],3,21,-1,57,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+62,VerizonSupport,"Arlington, VA, USA",2021-03-30 21:57:46,not quite moving instead transferring internet service move date,1,[],3,21,0,64,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+63,VerizonSupport,she/they (6’1) 17 priv=,2021-03-30 21:55:44,grievance post something happened ago ill try next week get back home,1,[],3,21,-1,69,0,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+64,VerizonSupport,,2021-03-30 21:54:51,kuru tried log verizon fios quantum gateway router verizon fios quantum,1,[],3,21,0,71,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+65,VerizonSupport,,2021-03-30 21:50:39,wa issue month ago also related free stream box dbu,0,[],3,21,1,51,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+66,VerizonSupport,"Arlington, VA, USA",2021-03-30 21:47:02,sure said month ago,0,[],3,21,1,19,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+67,VerizonSupport,,2021-03-30 21:36:05,sad true lol,0,[],3,21,1,12,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+68,VerizonSupport,"Virginia, USA",2021-03-30 21:34:37,man ordered jetpack dongle guy past weekend day shipping supposed,1,[],3,21,-1,65,0,1,30,evening,37,0.002690712683383306,0.9999963800260756
+69,VerizonSupport,,2021-03-30 21:34:18,their response consist blaming covid,1,[],3,21,0,36,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+70,VerizonSupport,,2021-03-30 21:34:16,hello ori apology took one interaction get issue resolved thank,1,[],3,21,0,63,0,1,30,evening,16,0.001163552572115895,0.9999993230724769
+71,VerizonSupport,Ohio,2021-03-30 21:31:38,get shit together lol got event need streamed,0,[],3,21,1,45,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+72,VerizonSupport,"Arlington, VA, USA",2021-03-30 21:30:46,wanted let know taken people minute figure get,1,[],3,21,0,46,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+73,VerizonSupport,"Massachusetts, USA",2021-03-30 21:30:24,thats odd hope come,1,[],3,21,-1,19,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+74,VerizonSupport,Dallas Mufuckin Texas,2021-03-30 21:29:29,man ordered jetpack dongle guy past weekend day shipping supposed,1,[],3,21,-1,65,0,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+75,VerizonSupport,,2021-03-30 21:29:28,good afternoon michael thanks much reaching today verizon fios social medium,1,[],3,21,1,76,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+76,VerizonSupport,,2021-03-30 21:25:18,sorry hear trouble app you also use link schedule call,0,[],3,21,-1,54,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+77,VerizonSupport,United States,2021-03-30 21:16:48,call kid,1,"['😀', '👍']",3,21,0,8,2,1,30,evening,48,0.003490651415223732,0.9999939076577904
+78,VerizonSupport,"Los Angeles, CA",2021-03-30 21:06:45,guessing paid hour,1,[],3,21,0,18,0,1,30,evening,45,0.0032724865065266256,0.9999946454016965
+79,VerizonSupport,New York City ,2021-03-30 21:06:43,elc,1,[],3,21,0,3,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+80,VerizonSupport,,2021-03-30 21:06:01,turn frown upside when ever concern arise always reach than,1,[],3,21,0,59,0,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+81,VerizonSupport,New York City ,2021-03-30 21:04:07,one talk elc,1,[],3,21,0,12,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+82,VerizonSupport,,2021-03-30 21:03:27,you always talk happy help please hesitate reach concern elc,0,[],3,21,1,60,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+83,ATT,,2021-03-30 21:02:12,sent,1,[],3,21,0,4,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+84,VerizonSupport,New York City ,2021-03-30 21:02:04,can talk elc,1,[],3,21,0,12,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+85,VerizonSupport,,2021-03-30 21:01:20,always happy help fios family are fios concern help today elc,0,[],3,21,1,61,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+86,ATT,,2021-03-30 20:59:47,apology matt specific contact information individual dispatch,1,[],3,20,0,61,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+87,VerizonSupport,New York City ,2021-03-30 20:59:22,how today fios team family love,0,[],3,20,1,31,0,1,30,evening,22,0.0015998844651418896,0.9999987201840301
+88,ATT,,2021-03-30 20:56:18,already following way get local dispatch number need resolved today,1,[],3,20,0,67,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+89,ATT,,2021-03-30 20:55:14,please follow assistance clc,1,[],3,20,0,28,0,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+90,ATT,,2021-03-30 20:50:37,unfortunately told builder phone number,0,[],3,20,-1,39,0,1,30,evening,37,0.002690712683383306,0.9999963800260756
+91,ATT,,2021-03-30 20:49:27,were given ticket number matter clc,1,[],3,20,0,35,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+92,ATT,,2021-03-30 20:48:04,because builder called could give information,1,[],3,20,0,45,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+93,VerizonSupport,,2021-03-30 20:46:44,understand time valuable important resolve concern feel free fol,0,[],3,20,1,64,0,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+94,ATT,,2021-03-30 20:43:58,residential construction crew cut line morning told verizon would,1,[],3,20,0,65,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+95,ATT,,2021-03-30 20:39:58,hello did need assistance wireless residential service today clc,1,[],3,20,0,64,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+96,VerizonSupport,,2021-03-30 20:39:36,definitely want feel way help what happened cause feeling elc,1,[],3,20,0,61,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+97,VerizonSupport,"Stockholm, Sweden",2021-03-30 20:38:15,update courtney alan virtual assistant finally got phone set took hour thanks listeni,0,[],3,20,1,85,0,1,30,evening,15,0.0010908305661643995,0.999999405044161
+98,VerizonSupport,France,2021-03-30 20:23:54,unacceptable canceled service verizon,1,[],3,20,0,37,0,1,30,evening,54,0.0039269807238059996,0.9999922893814706
+99,VerizonSupport,"Portland, OR",2021-03-30 20:20:27,it phooooonnneee love,0,['😍'],3,20,1,21,1,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+100,verizon,Ottawa Ontario,2021-03-30 23:59:38,and hung perhaps use verizon hear,1,[],3,23,0,33,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+101,verizon,New York,2021-03-30 23:58:47,bad comparison verizon charge people regardless age,0,[],3,23,-1,51,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+102,TMobile,"California, USA",2021-03-30 23:58:40,alright true this time,0,[],3,23,1,22,0,1,30,evening,40,0.0029088779843619342,0.9999957692054863
+105,verizon,,2021-03-30 23:54:50,hear jazz still lost home,1,['🤯'],3,23,0,25,1,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+109,verizon,,2021-03-30 23:53:27,been trying get reimbursed two phone past summer,1,[],3,23,-1,48,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+110,VZWSupport,"Stockholm, Sweden",2021-03-30 23:52:42,fuck two week and still dont have cell service corporate call,1,[],3,23,-1,61,0,1,30,evening,42,0.0030543214420707073,0.9999953355493857
+111,verizon,"Accra, Ghana",2021-03-30 23:52:00,you rocking jersey season you member grab tht jersey today,1,[],3,23,0,58,0,1,30,evening,0,0.0,1.0
+112,verizon,France,2021-03-30 23:51:52,lemmy kilmister preforming stage verizon wireless amphitheater san antonio texas august,1,['🤠'],3,23,0,87,1,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+113,verizon,Sydney,2021-03-30 23:51:14,verizon medium promotes paul sigaloff anz south east asia india read more,1,[],3,23,1,73,0,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+114,verizon,"Jersey City, NJ",2021-03-30 23:50:10,actually heard coming verizon the unlocked version certified verizon,1,[],3,23,0,68,0,1,30,evening,10,0.0007272204575659147,0.9999997355751681
+120,verizon,"Denver, CO",2021-03-30 23:48:37,for know foreign spy organization possibly corporation verizon,0,[],3,23,-1,62,0,1,30,evening,37,0.002690712683383306,0.9999963800260756
+121,verizon,,2021-03-30 23:48:25,anyone spare verizon phone hanging around,1,['🐘'],3,23,0,41,1,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+122,verizon,"Washington, DC",2021-03-30 23:47:43,never approve illegal streaming wld cheating executive great company like comcast verizon,0,[],3,23,1,89,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+123,verizon,,2021-03-30 23:47:33,please help see picture,1,[],3,23,0,23,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+124,TMobile,,2021-03-30 23:46:46,over million cell tower mapped using studio time,1,[],3,23,0,48,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+126,verizon,,2021-03-30 23:44:34,high,0,[],3,23,1,4,0,1,30,evening,34,0.002472547254336248,0.9999969432503657
+127,verizon,"Orange, California",2021-03-30 23:44:00,our final chapman dialogue spring semester featuring andrés irlando start le hour,0,[],3,23,0,81,0,1,30,evening,0,0.0,1.0
+128,verizon,"ATL-ish, NYC at heart",2021-03-30 23:43:31,intel hire justin long sprint commandeer verizon guy bring back joe isuzu,1,"['̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶']",3,23,-1,73,10,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+129,verizon,,2021-03-30 23:43:10,you rocking jersey season you member grab tht jersey today,1,[],3,23,0,58,0,1,30,evening,10,0.0007272204575659147,0.9999997355751681
+130,verizon,,2021-03-30 23:41:55,token circulation hope hold become exit liquidity whale dump,1,['😂'],3,23,0,60,1,1,30,evening,55,0.003999702204792417,0.9999920011591458
+131,verizon,"Elgin, IL",2021-03-30 23:41:24,where upgraded when passed two line sprint verizon got visa card,1,[],3,23,0,64,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+132,verizon,,2021-03-30 23:40:44,verizon security expert raising bar cyber defender,1,[],3,23,0,50,0,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+134,verizon,"Indianapolis, Indiana",2021-03-30 23:40:36,the first day proving ground powered starting watch live,1,['🔴'],3,23,1,56,1,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+135,verizon,"Charlotte, NC",2021-03-30 23:40:09,the latest ncaa division national ranking sponsored check top,0,[],3,23,1,61,0,1,30,evening,9,0.0006544984227701476,0.9999997858158843
+136,verizon,"Arlington, VA ",2021-03-30 23:39:02,parking sign still ground discarded verizon like plant since county board vot,1,[],3,23,0,77,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+137,verizon,Silicon Valley,2021-03-30 23:38:27,depends carrier could verizon mobile,1,[],3,23,0,36,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+139,verizon,"Mandarin, FL",2021-03-30 23:36:58,love oneplus backpack verizon oneplus,0,[],3,23,1,37,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+140,verizon,"Michigan, USA",2021-03-30 23:36:54,scamming money people pandemic working trying pay bill going,1,[],3,23,0,60,0,1,30,evening,54,0.0039269807238059996,0.9999922893814706
+141,verizon,,2021-03-30 23:36:25,considering switching company seen feature white heterosexual couple family commercial,1,[],3,23,0,86,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+142,verizon,En los meros rines,2021-03-30 23:34:35,verizon shut network next year following multiple delay,1,[],3,23,0,55,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+143,verizon,"Bomber Command, England",2021-03-30 23:33:36,lemmy kilmister preforming stage verizon wireless amphitheater san antonio texas august,1,['🤠'],3,23,0,87,1,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+144,verizon,Venezuela,2021-03-30 23:33:18,the fella back ready back home court performance center,1,['📍'],3,23,1,55,1,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+145,verizon,New Jersey,2021-03-30 23:32:56,completely ignored dispute verizon resolved thanks never say,1,[],3,23,1,60,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+146,VerizonSupport,,2021-03-30 23:32:38,happy welcome verizon family please check availability start,0,[],3,23,1,60,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+148,verizon,"Uptown, Chicago",2021-03-30 23:29:48,you rocking jersey season you member grab tht jersey today,1,[],3,23,0,58,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+149,verizon,Yogyakarta,2021-03-30 23:28:58,verizon shut network next year following multiple delay,1,[],3,23,0,55,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+150,verizon,Following My Bliss,2021-03-30 23:28:55,intel hire justin long sprint commandeer verizon guy bring back joe isuzu,1,"['̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶']",3,23,-1,73,10,1,30,evening,55,0.003999702204792417,0.9999920011591458
+151,verizon,,2021-03-30 23:28:37,you rocking jersey season you member grab tht jersey today,1,[],3,23,0,58,0,1,30,evening,37,0.002690712683383306,0.9999963800260756
+152,ATT,NYC,2021-03-30 23:28:20,experience future gaming urban legend battle friend immersive multiplayer,1,[],3,23,0,73,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+153,verizon,"Paragould, AR",2021-03-30 23:28:04,super easy entry enter yes five end,0,[],3,23,1,35,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+154,verizon,MN & WI USA,2021-03-30 23:28:02,finally following promise kill,1,[],3,23,0,30,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+155,verizon,,2021-03-30 23:27:27,asurion company verizon us cover insurance claim need work tacking system complete garbage,1,[],3,23,1,90,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+156,verizon,Westcoastia,2021-03-30 23:26:52,intel hire justin long sprint commandeer verizon guy bring back joe,1,"['̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶', '̶']",3,23,-1,67,10,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+157,verizon,PDX • 21 • she/her • ♎️,2021-03-30 23:26:27,anyone spare verizon phone hanging around,1,['🐘'],3,23,0,41,1,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+159,verizon,"Portland, OR",2021-03-30 23:22:56,anyone spare verizon phone hanging around,1,['🐘'],3,23,0,41,1,1,30,evening,56,0.004072423664626422,0.9999917076483663
+160,verizon,,2021-03-30 23:22:34,when verizon got scared away yr ago consumer loser public,1,[],3,23,0,57,0,1,30,evening,34,0.002472547254336248,0.9999969432503657
+162,VZWSupport,a lil lasagna ,2021-03-30 23:21:50,spouse appreciate reaching however general complaint regarding lim,1,[],3,23,-1,66,0,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+163,verizon,"Meridian, ID",2021-03-30 23:21:26,their appointment system crazy well stopped day let,0,[],3,23,-1,51,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+164,verizon,,2021-03-30 23:21:01,you rocking jersey season you member grab tht jersey today,1,[],3,23,0,58,0,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+165,verizon,Third planet from the sun,2021-03-30 23:20:57,activating verizon network without secret cdma firmware,0,[],3,23,-1,55,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+166,verizon,"Plateau, Nigeria",2021-03-30 23:19:30,you rocking jersey season you member grab tht jersey today,1,[],3,23,0,58,0,1,30,evening,30,0.0021816598343367697,0.9999976201773518
+167,VerizonSupport,"Wisconsin, USA",2021-03-30 23:19:25,experience switch verizon last year absolutely suck,1,[],3,23,1,51,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+168,verizon,"Canton, MA",2021-03-30 23:19:03,coming next channel verizon canton health board,1,[],3,23,0,47,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+169,verizon,,2021-03-30 23:18:20,verizon finally following promise kill,1,[],3,23,0,38,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+170,verizon,"Los Angeles, CA",2021-03-30 23:17:17,tmann better care,1,[],3,23,1,17,0,1,30,evening,17,0.0012362745719139464,0.9999992358122994
+172,verizon,,2021-03-30 23:16:05,enter win verizon gift card winner,1,[],3,23,1,34,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+173,TMobileHelp,,2021-03-30 23:15:43,yeah everything jumping hoop stop selling data this att,1,[],3,23,0,55,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+174,verizon,,2021-03-30 23:15:17,pay verizon hour later texting new bill,1,[],3,23,1,39,0,1,30,evening,17,0.0012362745719139464,0.9999992358122994
+175,verizon,also a dame & luka stan ♡,2021-03-30 23:14:25,jersey pls,1,[],3,23,0,10,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+176,verizon,"San Francisco, CA",2021-03-30 23:14:14,ensure send bill people customer and least make easy contact,0,[],3,23,1,60,0,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+177,verizon,New York + Jersey Cities,2021-03-30 23:14:05,haha sound like verizon,1,[],3,23,1,23,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+178,verizon,NYC,2021-03-30 23:13:56,verizon fios,1,[],3,23,0,12,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+179,verizon,Jobless,2021-03-30 23:13:43,hollywood,1,[],3,23,0,9,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+180,verizon,,2021-03-30 23:13:27,nah seems terrible far verizon might blame tho idk,0,[],3,23,-1,50,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+181,verizon,Lebanon,2021-03-30 23:13:27,yahoo become full member verizon medium group,0,[],3,23,1,45,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+182,verizon,,2021-03-30 23:13:13,hear jazz still lost home,1,['🤯'],3,23,0,25,1,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+183,verizon,also a dame & luka stan ♡,2021-03-30 23:12:53,you rocking jersey season you member grab tht jersey today,1,[],3,23,0,58,0,1,30,evening,53,0.003854259222051758,0.9999925723153393
+184,verizon,"Rhode Island, USA",2021-03-30 23:11:47,dad phone verizon said joke lady start dying mom looking said found funny laugh,0,[],3,23,1,79,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+185,verizon,"San Francisco, California",2021-03-30 23:11:28,member get ball you need reward discount surprise app warrior jersey dropp,1,[],3,23,0,74,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+186,verizon,"Uptown, Chicago",2021-03-30 23:10:55,you rocking jersey season you member grab tht jersey today,1,[],3,23,0,58,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+187,ATT,United States,2021-03-30 23:10:21,let know think your voice matter,1,[],3,23,0,32,0,1,30,evening,21,0.0015271625018799095,0.9999988338866665
+188,TMobile,"Arizona, USA",2021-03-30 23:10:07,you need work together support classroom,1,[],3,23,0,40,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+189,verizon,Stolen Chinook Land,2021-03-30 23:09:42,anyone spare verizon phone hanging around,1,['🐘'],3,23,0,41,1,1,30,evening,42,0.0030543214420707073,0.9999953355493857
+190,verizon,"Portland, OR",2021-03-30 23:09:17,anyone spare verizon phone hanging around,1,['🐘'],3,23,0,41,1,1,30,evening,17,0.0012362745719139464,0.9999992358122994
+191,TMobileHelp,Columbia SC,2021-03-30 23:09:14,called mobile since switched sim card sprint service terrible,0,['🗑'],3,23,-1,61,1,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+193,verizon,UK,2021-03-30 23:07:52,verizon why ignore warren buffett second biggest purchase ever,1,[],3,23,0,62,0,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+194,TMobileHelp,,2021-03-30 23:07:36,tried needed research seeing told,1,[],3,23,0,33,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+196,verizon,,2021-03-30 23:05:01,yahoo news owned verizon hit job conservative surprise surprise surprise po,1,[],3,23,0,75,0,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+197,verizon,"Basking Ridge, NJ",2021-03-30 23:04:43,looking forward sharing next week super smart folk call,1,[],3,23,1,55,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+198,verizon,Minneapolis ,2021-03-30 23:04:34,hey guy please auto correct supposed say form,1,['😳'],3,23,0,45,1,1,30,evening,34,0.002472547254336248,0.9999969432503657
+200,VZWSupport,"Stockholm, Sweden",2021-03-30 23:52:42,fuck two week and still dont have cell service corporate call,1,[],3,23,-1,61,0,1,30,evening,42,0.0030543214420707073,0.9999953355493857
+201,VZWSupport,,2021-03-30 23:50:01,help please follow send direct message may best assist cxg,1,[],3,23,1,58,0,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+202,VZWSupport,,2021-03-30 23:46:47,thank sharing information would like help look might going,1,[],3,23,0,58,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+203,VZWSupport,"Michigan, USA",2021-03-30 23:42:58,sent,1,[],3,23,0,4,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+204,VZWSupport,,2021-03-30 23:38:18,last way want feel how help please follow send assistance jes,1,[],3,23,0,61,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+205,VZWSupport,,2021-03-30 23:28:05,know irritating slow internet connection james please follow get correct,0,[],3,23,-1,72,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+206,VZWSupport,,2021-03-30 23:27:24,appreciate feedback regarding always help need assistance,1,[],3,23,0,57,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+207,VZWSupport,Code: ItzJames #ad,2021-03-30 23:26:16,really slow atm,1,[],3,23,-1,15,0,1,30,evening,16,0.001163552572115895,0.9999993230724769
+208,VZWSupport,,2021-03-30 23:25:59,what issue internet cxm,1,[],3,23,0,23,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+209,VZWSupport,,2021-03-30 23:24:47,thank get started seems issue data internet cxm,1,[],3,23,0,47,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+210,VZWSupport,,2021-03-30 23:23:52,hey hope evening going well would concerned paid bill,1,[],3,23,0,53,0,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+211,VZWSupport,a lil lasagna ,2021-03-30 23:21:50,spouse appreciate reaching however general complaint regarding lim,1,[],3,23,-1,66,0,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+212,VZWSupport,Code: ItzJames #ad,2021-03-30 23:20:56,wireless,1,[],3,23,0,8,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+213,VZWSupport,,2021-03-30 23:20:33,thank please meet assistance mcb,1,[],3,23,0,32,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+214,VZWSupport,,2021-03-30 23:20:24,hello certainly understand importance reliable service ensure get corre,0,[],3,23,1,71,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+215,ATT,,2021-03-30 23:15:00,thank bringing attention certainly passed along feedback expect,0,[],3,23,1,63,0,1,30,evening,0,0.0,1.0
+216,VZWSupport,,2021-03-30 23:14:19,better longer wait explaining supervisor dawn account got changed,1,[],3,23,1,65,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+217,VZWSupport,,2021-03-30 23:04:07,want waiting longer appreciate patience please follow axr,1,[],3,23,0,57,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+218,VZWSupport,,2021-03-30 23:00:12,change mind would like assistance reviewing account,1,[],3,23,0,51,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+219,VZWSupport,,2021-03-30 22:58:34,unfortunately true your plan inclusive need quite unfortunate,0,[],3,22,-1,61,0,1,30,evening,34,0.002472547254336248,0.9999969432503657
+220,VZWSupport,,2021-03-30 22:58:09,having reliable connection important what zip code experiencing issue mcb,0,[],3,22,1,73,0,1,30,evening,9,0.0006544984227701476,0.9999997858158843
+221,VZWSupport,,2021-03-30 22:53:27,still hold see next person sends although hold minute,1,[],3,22,0,53,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+222,TMobile,,2021-03-30 22:51:12,shoulda went tmobile,1,[],3,22,0,20,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+223,VZWSupport,Dallas Mufuckin Texas,2021-03-30 22:44:26,,1,[],3,22,0,0,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+224,VZWSupport,,2021-03-30 22:42:51,make sure package delivered expected please follow assistance bkh,0,[],3,22,1,65,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+225,VZWSupport,,2021-03-30 22:40:55,would love team please follow direct message provide,1,[],3,22,1,52,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+226,VZWSupport,,2021-03-30 22:40:43,would happy join verizon wireless family feel free follow direct message detail jjc,0,[],3,22,1,83,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+227,VZWSupport,Dallas Mufuckin Texas,2021-03-30 22:39:58,sent order number,1,[],3,22,0,17,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+228,VZWSupport,,2021-03-30 22:39:41,want issue service follow send direct message tak,1,[],3,22,1,49,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+229,VZWSupport,,2021-03-30 22:39:07,understood well change mind follow anytime have good day safe fam,0,[],3,22,1,65,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+230,VZWSupport,,2021-03-30 22:37:29,nah late apology,0,[],3,22,-1,16,0,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+231,VZWSupport,,2021-03-30 22:36:47,saddens learn feel help make thing right follow get started fam,0,[],3,22,1,63,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+232,ATT,"Houston, TX",2021-03-30 22:36:33,and reference verizon throttled firefight,1,[],3,22,0,41,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+233,VZWSupport,United States,2021-03-30 22:35:58,you are unavailable customer service atrocious,0,[],3,22,-1,46,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+234,VZWSupport,United States,2021-03-30 22:34:38,third time the phone and your system disconnected sent you response absolutely horrendous customer service,1,[],3,22,1,106,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+235,VZWSupport,,2021-03-30 22:34:24,thank contacting definitely want ensure well assisted provided,1,[],3,22,0,62,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+236,VZWSupport,"Houston, TX",2021-03-30 22:34:11,pretty funny given cut,0,[],3,22,1,22,0,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+237,VZWSupport,,2021-03-30 22:33:05,know important get assistance need help please follow axr,0,[],3,22,1,57,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+238,VZWSupport,"New Jersey, USA",2021-03-30 22:28:27,just sent,1,[],3,22,0,9,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+239,VZWSupport,,2021-03-30 22:26:02,always help detail needed however moment follo,1,[],3,22,0,46,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+240,ATT,,2021-03-30 22:22:35,appreciate reaching matter understand importance service,1,[],3,22,0,56,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+241,VZWSupport,,2021-03-30 22:22:30,gotcha unfortunately time access landline feature platform reg,0,[],3,22,-1,62,0,1,30,evening,30,0.0021816598343367697,0.9999976201773518
+242,VZWSupport,,2021-03-30 22:20:53,karl always help still need assistance network extender,1,[],3,22,0,55,0,1,30,evening,53,0.003854259222051758,0.9999925723153393
+243,VZWSupport,,2021-03-30 22:20:33,thanks getting back show reported issue area please follow,1,[],3,22,1,58,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+244,VZWSupport,"Miami, FL",2021-03-30 22:19:05,get leader know number,1,[],3,22,0,22,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+245,VZWSupport,"New Jersey, USA",2021-03-30 22:17:37,bought verizon network extender stuck connecting segw server minute help,1,[],3,22,0,72,0,1,30,evening,37,0.002690712683383306,0.9999963800260756
+246,VZWSupport,,2021-03-30 22:17:18,resolve service concern please follow send get started mre,1,[],3,22,0,58,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+247,VZWSupport,,2021-03-30 22:17:12,zip code minute,1,[],3,22,0,15,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+248,VZWSupport,,2021-03-30 22:15:34,definitely want without service ever when begin,1,[],3,22,0,47,0,1,30,evening,34,0.002472547254336248,0.9999969432503657
+249,VZWSupport,IA,2021-03-30 22:15:25,request get r feed news page please,1,[],3,22,0,35,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+250,VZWSupport,,2021-03-30 22:14:59,crucial service time would happy look exper,0,[],3,22,1,43,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+251,VZWSupport,,2021-03-30 22:14:51,hey would like look issue may resolve connection dif,1,[],3,22,0,52,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+252,VZWSupport,,2021-03-30 22:13:35,happy help please follow send assistance lxg,0,[],3,22,1,44,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+253,VZWSupport,,2021-03-30 22:11:58,when ready send this way find impacting service standing rxz,1,[],3,22,1,60,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+254,VZWSupport,,2021-03-30 22:11:02,hello always strive give best customer service reliability hear,1,[],3,22,1,63,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+255,VZWSupport,,2021-03-30 22:04:27,thank confirming this never experience want take clos,1,[],3,22,0,53,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+256,VZWSupport,,2021-03-30 22:03:00,kate sorry know would concerned service wor,0,[],3,22,-1,43,0,1,30,evening,0,0.0,1.0
+257,VZWSupport,,2021-03-30 22:00:43,zip code started almost overnight couple month ago see people posting,1,[],3,22,0,69,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+258,VZWSupport,,2021-03-30 22:00:36,help please follow send direct message may best assist cxg,1,[],3,22,1,58,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+259,VZWSupport,,2021-03-30 21:58:02,thank reaching today reliable service must want help what,1,[],3,21,0,57,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+260,VZWSupport,,2021-03-30 21:54:51,thank detail provided would love opportunity review account see,0,[],3,21,1,63,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+261,VZWSupport,,2021-03-30 21:51:41,sorry feel happening you get select plan want need,0,[],3,21,-1,50,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+262,VZWSupport,,2021-03-30 21:51:39,want feel like available help want resolve problem way,1,[],3,21,1,54,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+263,VZWSupport,california dreamin’,2021-03-30 21:51:02,mother driven hour away verizon store time course last week,1,[],3,21,0,59,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+264,VZWSupport,california dreamin’,2021-03-30 21:50:44,yes sim card arrived even though supposed arrive friday account,1,[],3,21,0,63,0,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+265,VZWSupport,"Miami, Florida, USA",2021-03-30 21:50:27,signal bay harbor island poor fyi,0,[],3,21,-1,33,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+266,VZWSupport,,2021-03-30 21:50:07,would love would stop price gauging year customer,0,[],3,21,1,49,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+267,VZWSupport,,2021-03-30 21:49:54,apologize issue service two week long without ser,1,[],3,21,-1,49,0,1,30,evening,54,0.0039269807238059996,0.9999922893814706
+268,TMobileHelp,"Stockholm, Sweden",2021-03-30 21:49:31,working tornado victim newnan local internet provider still,1,[],3,21,-1,59,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+269,VZWSupport,"Maryland, USA",2021-03-30 21:49:10,landline phone,1,[],3,21,0,14,0,1,30,evening,10,0.0007272204575659147,0.9999997355751681
+270,VZWSupport,,2021-03-30 21:48:39,this certainly experience want customer happy help,0,[],3,21,1,50,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+271,VZWSupport,"Stockholm, Sweden",2021-03-30 21:46:00,math add lol upgrade month except really billing,1,[],3,21,1,48,0,1,30,evening,0,0.0,1.0
+272,VZWSupport,,2021-03-30 21:43:23,hello never want order delayed want make sure issue,0,[],3,21,1,51,0,1,30,evening,23,0.0016726064199428861,0.9999986011929036
+273,VZWSupport,california dreamin’,2021-03-30 21:41:03,fuck two week and still dont have cell service corporate call,1,[],3,21,-1,61,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+274,VZWSupport,,2021-03-30 21:28:41,checked alert system active service alert area provided fin,0,[],3,21,-1,59,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+275,VZWSupport,"Stockholm, Sweden",2021-03-30 21:08:08,before sign make sure know upgrade phone,0,[],3,21,1,40,0,1,30,evening,8,0.0005817763845130675,0.999999830768105
+276,VZWSupport,,2021-03-30 21:03:06,glad help right concern would need detail going,0,[],3,21,1,47,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+277,VZWSupport,"Miami, FL",2021-03-30 21:01:07,the swedish financial flirt,1,[],3,21,0,27,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+278,VZWSupport,"Miami, FL",2021-03-30 21:00:16,get han,1,[],3,21,0,7,0,1,30,evening,16,0.001163552572115895,0.9999993230724769
+279,VZWSupport,The mythical land of Oklahoma,2021-03-30 20:59:06,great know please fix hub near henryetta oklahoma then emergency tracfone,0,['🙃'],3,20,1,73,1,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+280,VZWSupport,,2021-03-30 20:56:57,value time want make sure data need big deal what issue,1,[],3,20,1,55,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+281,VZWSupport,,2021-03-30 20:52:40,still want offer help change mind please follow,1,[],3,20,0,47,0,1,30,evening,40,0.0029088779843619342,0.9999957692054863
+282,VZWSupport,The mythical land of Oklahoma,2021-03-30 20:50:33,been done solution thanks anyway,1,[],3,20,1,32,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+283,VZWSupport,,2021-03-30 20:50:06,want make sure question answered help kindly follow assistance,0,[],3,20,1,62,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+284,VZWSupport,,2021-03-30 20:43:48,hey kelly sorry hear speed concern would happy start troubleshooting,0,[],3,20,1,68,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+285,VZWSupport,,2021-03-30 20:42:41,hey thank contacting via social medium open arm assist,1,[],3,20,1,54,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+286,TMobileHelp,"Atlanta, GA",2021-03-30 20:41:31,working tornado victim newnan local internet provider,1,[],3,20,-1,53,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+287,VZWSupport,michigan,2021-03-30 20:40:41,math add lol upgrade month except really billing,1,[],3,20,1,48,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+288,VZWSupport,,2021-03-30 20:39:12,thank reaching knowing full detail upgrading device must please feel,0,[],3,20,1,68,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+289,VZWSupport,,2021-03-30 20:33:50,see happy look please follow assist dxr,0,[],3,20,1,39,0,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+290,VZWSupport,,2021-03-30 20:32:57,case point,1,[],3,20,0,10,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+291,VZWSupport,,2021-03-30 20:31:18,that odd because yesterday never received reply,1,[],3,20,-1,47,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+292,VZWSupport,,2021-03-30 20:28:46,this never experience want setting new device sorry thi,0,[],3,20,-1,55,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+293,VZWSupport,,2021-03-30 20:24:32,truly sorry issue transfer occurring,0,[],3,20,-1,36,0,1,30,evening,32,0.0023271035689502685,0.9999972922908238
+294,TMobile,"Huntsville, AL",2021-03-30 20:23:02,office,1,[],3,20,0,6,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+295,VZWSupport,,2021-03-30 20:22:32,happy help please follow send assistance lxg,0,[],3,20,1,44,0,1,30,evening,32,0.0023271035689502685,0.9999972922908238
+296,VZWSupport,,2021-03-30 20:22:04,before sign make sure know upgrade phon,0,[],3,20,1,39,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+297,VZWSupport,,2021-03-30 20:21:48,happy help please follow send assistance lxg,0,[],3,20,1,44,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+298,VZWSupport,,2021-03-30 20:20:04,rofl look name,0,[],3,20,1,14,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+299,VZWSupport,illinois,2021-03-30 20:19:58,verizon,1,[],3,20,0,7,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+300,ATT,stinky new jersey,2021-03-30 23:59:48,edit body face post even feel uncomfy hope someone look say,1,[],3,23,0,59,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+301,ATT,"Buffalo, NY",2021-03-30 23:59:16,lsu marr chase boa dominator yac ypr yard per team pas attempt full route tree,0,"['➕', '➕', '➕', '➕', '➕', '➕', '➕']",3,23,1,78,7,1,30,evening,16,0.001163552572115895,0.9999993230724769
+302,ATT,"NY, USA",2021-03-30 23:58:59,all company took billion government funding roll fiber across country,1,[],3,23,0,69,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+304,ATT,,2021-03-30 23:58:37,ben affleck intense raw bruce wayne batman ever seen would pay,0,[],3,23,-1,62,0,1,30,evening,37,0.002690712683383306,0.9999963800260756
+305,ATT,"Beaverton, OR",2021-03-30 23:58:34,att never shown sign intelligence clown write bill put gas mask,1,[],3,23,0,63,0,1,30,evening,34,0.002472547254336248,0.9999969432503657
+307,ATT,,2021-03-30 23:57:43,att new generation,1,[],3,23,1,18,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+309,ATT,United States,2021-03-30 23:57:21,lsu marr chase boa dominator yac ypr yard per team pas attempt full route tree,0,"['➕', '➕', '➕', '➕', '➕', '➕', '➕']",3,23,1,78,7,1,30,evening,21,0.0015271625018799095,0.9999988338866665
+310,ATT,Houston,2021-03-30 23:57:20,multiple occasion told take identity theft problem google gmail explaine,1,[],3,23,0,72,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+311,ATT,The North,2021-03-30 23:57:13,,1,[],3,23,0,0,0,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+312,ATT,Puebla/CDMX,2021-03-30 23:57:11,worldwide demand,1,[],3,23,0,16,0,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+313,ATT,The North,2021-03-30 23:56:57,,1,[],3,23,0,0,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+314,ATT,,2021-03-30 23:56:55,att customer fiber think,1,[],3,23,0,24,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+315,ATT,The North,2021-03-30 23:56:49,,1,[],3,23,0,0,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+317,ATT,,2021-03-30 23:56:39,live att nova,1,[],3,23,1,13,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+318,ATT,The North,2021-03-30 23:56:38,,1,[],3,23,0,0,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+319,ATT,"Indianapolis, IN",2021-03-30 23:56:27,believe indy brings employee resource together indianapolis community make difference,1,[],3,23,0,85,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+320,ATT,The North,2021-03-30 23:56:14,,1,[],3,23,0,0,0,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+321,ATT,Kim Jisoo Supremacy,2021-03-30 23:56:12,chanel girl teve att,1,[],3,23,0,20,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+323,ATT,Snyder-Verse on HBO Max,2021-03-30 23:55:58,worldwide demand,1,[],3,23,0,16,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+325,ATT,"Freeburg, IL",2021-03-30 23:55:44,champaign central pas pat pas att good maroon left half,1,[],3,23,1,55,0,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+327,ATT,The North,2021-03-30 23:55:30,this movie sound amazing probably similar,0,[],3,23,1,41,0,1,30,evening,30,0.0021816598343367697,0.9999976201773518
+328,ATT,"Maine, USA",2021-03-30 23:55:28,yay,1,[],3,23,0,3,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+329,ATT,Afghanistan,2021-03-30 23:55:27,kong,1,['🖤'],3,23,0,4,1,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+330,ATT,México,2021-03-30 23:55:24,got hbo max snyder cut keep there million,1,[],3,23,0,41,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+331,ATTHelp,,2021-03-30 23:54:59,hello experience want customer please use tool,1,[],3,23,0,46,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+332,ATT,,2021-03-30 23:54:57,thanks swaycybertoolz instagram help recover account,1,[],3,23,1,52,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+333,ATT,The Cupboard Under The Stairs,2021-03-30 23:54:30,the battle age coming full force see theater streaming exclusively tomorrow,0,"['{', '}']",3,23,1,75,2,1,30,evening,30,0.0021816598343367697,0.9999976201773518
+334,ATT,,2021-03-30 23:54:27,that happened couple year ago they locked account been good,0,['🤞'],3,23,1,59,1,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+335,ATT,Maryland,2021-03-30 23:54:13,you follow,1,[],3,23,0,10,0,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+336,ATT,The North,2021-03-30 23:54:12,amazing movie scared shit executive give this movie now,0,"['""', '""']",3,23,1,55,2,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+337,ATT,The North,2021-03-30 23:53:57,,1,[],3,23,0,0,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+338,ATT,"Dallas, TX. 75219",2021-03-30 23:53:57,ask can,1,"['😎', '😎', '😎']",3,23,0,7,3,1,30,evening,57,0.004145145102923426,0.999991408849134
+339,ATT,"Chicago, IL",2021-03-30 23:53:57,fuck,0,[],3,23,-1,4,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+340,ATT,konoha,2021-03-30 23:53:43,pity dead harry pity living live without love,1,"['""', '""']",3,23,1,45,2,1,30,evening,43,0.003127043146888234,0.9999951107886266
+341,ATT,Houston,2021-03-30 23:53:35,don worry said taken care yesterday got email saying added insurance,1,[],3,23,0,68,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+343,ATT,"New Orleans, LA",2021-03-30 23:53:09,sign,1,[],3,23,0,4,0,1,30,evening,9,0.0006544984227701476,0.9999997858158843
+344,ATT,,2021-03-30 23:52:59,wow can wait now please consider,0,['😍'],3,23,1,32,1,1,30,evening,59,0.004290587913368087,0.9999907953853163
+345,ATT,"San José, Costa Rica",2021-03-30 23:52:56,please,1,[],3,23,0,6,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+346,ATT,,2021-03-30 23:52:48,wow can wait now please consider,0,['😍'],3,23,1,32,1,1,30,evening,48,0.003490651415223732,0.9999939076577904
+347,ATT,New Orleans,2021-03-30 23:52:13,weird linked account anything like far,0,[],3,23,-1,38,0,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+348,ATT,"Dallas, TX",2021-03-30 23:51:59,thank bringing attention cindy please send like take closer look,1,[],3,23,0,64,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+349,ATT,"Michigan, USA",2021-03-30 23:51:37,completely disappointed internet service right think global pandemic many people,1,[],3,23,1,80,0,1,30,evening,37,0.002690712683383306,0.9999963800260756
+350,ATT,,2021-03-30 23:51:28,live att nova,1,[],3,23,1,13,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+351,ATT,Indonesia,2021-03-30 23:51:11,positively yours nation where att watch this brilliant edit omg screaminggg ctto watch full,0,['🖇'],3,23,1,91,1,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+352,ATT,"detroit, mi",2021-03-30 23:51:11,att lot one period,1,[],3,23,0,18,0,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+353,ATT,"Oklahoma, USA",2021-03-30 23:50:58,cancelled home phone reason anymore still,1,[],3,23,0,41,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+354,ATT,Houston,2021-03-30 23:50:54,last week got email someone ordered iphone account using email address called,1,[],3,23,0,77,0,1,30,evening,54,0.0039269807238059996,0.9999922893814706
+356,ATT,"Houston, TX",2021-03-30 23:50:09,att service as lately phone acting,1,[],3,23,-1,34,0,1,30,evening,9,0.0006544984227701476,0.9999997858158843
+357,ATT,Austin TX ,2021-03-30 23:50:05,beautiful,0,[],3,23,1,9,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+358,ATT,USA,2021-03-30 23:50:05,internet watch via hulu lot trouble,1,[],3,23,-1,35,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+359,ATT,"Alton, Illinois",2021-03-30 23:49:51,champaign central pas pat pas att good maroon left half,1,[],3,23,1,55,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+360,ATT,"Dallas, TX",2021-03-30 23:49:50,love you,0,['💙'],3,23,1,8,1,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+361,ATT,United Kingdom,2021-03-30 23:49:47,very excited announce ambassador honored working alongside help increase visibility acce,0,"['☺', '️', '🎉']",3,23,1,88,3,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+362,ATT,,2021-03-30 23:49:39,got hbo max snyder cut keep there,1,[],3,23,0,33,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+363,ATT,"Dallas, TX",2021-03-30 23:49:38,jen like turn experience around mind sending additional,1,[],3,23,0,55,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+368,ATTHelp,"Los Angeles, Ca.",2021-03-30 23:48:41,dealing billing issue regarding incorrect device fee why ha been,1,[],3,23,0,64,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+371,ATT,"Illinois, USA",2021-03-30 23:48:03,lsu marr chase boa dominator yac ypr yard per team pas attempt full route tree,0,"['➕', '➕', '➕', '➕', '➕', '➕', '➕']",3,23,1,78,7,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+372,ATT,"DC,  MD, Va DM|V|",2021-03-30 23:47:34,almost time game know mean tune contest halftime catch,0,[],3,23,-1,54,0,1,30,evening,34,0.002472547254336248,0.9999969432503657
+373,ATT,autistic ✡︎ he/they/vamp 19,2021-03-30 23:47:27,would rather lick rusty fork watch att tan,1,[],3,23,0,42,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+375,TMobile,,2021-03-30 23:46:46,over million cell tower mapped using studio time,1,[],3,23,0,48,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+376,ATT,"Joinville, Brasil",2021-03-30 23:46:42,cole att,1,[],3,23,0,8,0,1,30,evening,42,0.0030543214420707073,0.9999953355493857
+377,ATT,Earth,2021-03-30 23:46:36,gaming pentathlon,1,[],3,23,0,17,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+378,ATT,"São Caetano do Sul, Brasil",2021-03-30 23:46:26,not impressed,0,[],3,23,-1,13,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+379,ATT,Lake Superior Keweenaw Shore,2021-03-30 23:46:03,,1,[],3,23,0,0,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+380,ATT,"New Orleans, LA",2021-03-30 23:45:52,att never sent money back ima give one day start disputing shit,1,['🥴'],3,23,-1,63,1,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+382,ATT,"Kuşadası, Türkiye",2021-03-30 23:45:02,great bitch release the snyder cut number,0,[],3,23,1,41,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+383,ATT,"Kuşadası, Türkiye",2021-03-30 23:44:58,great bitch release the snyder cut number,0,[],3,23,1,41,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+384,ATT,"FO, West India",2021-03-30 23:44:41,the camper notorious att undermining terrible white underground make funny,0,[],3,23,-1,74,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+385,ATT,Vadodara,2021-03-30 23:44:20,there one thing get,1,[],3,23,0,19,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+386,ATTHelp,,2021-03-30 23:43:49,frank help please send share detail take look,1,[],3,23,0,45,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+387,ATT,United States,2021-03-30 23:43:17,first support voter suppression please use att,1,[],3,23,1,46,0,1,30,evening,17,0.0012362745719139464,0.9999992358122994
+388,ATT,,2021-03-30 23:41:30,say supposed panther,1,[],3,23,0,20,0,1,30,evening,30,0.0021816598343367697,0.9999976201773518
+389,ATTHelp,,2021-03-30 23:41:28,hey stephen hear please try troubleshooting app meet,1,[],3,23,0,52,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+390,ATT,,2021-03-30 23:41:14,this need att warning consider warning,1,['🖤'],3,23,0,38,1,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+392,ATT,,2021-03-30 23:40:44,lsu marr chase boa dominator yac ypr yard per team pas attempt full route tree,0,"['➕', '➕', '➕', '➕', '➕', '➕', '➕']",3,23,1,78,7,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+393,ATT,"Miami, Florida",2021-03-30 23:40:13,alternate,1,[],3,23,0,9,0,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+395,ATT,,2021-03-30 23:38:51,anyone else problem showing florida panther watching magic bubble special,0,[],3,23,1,73,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+396,ATT,Mississippi gulf coast usa,2021-03-30 23:38:46,fixing end connection soon get cable hooked,1,[],3,23,0,43,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+398,ATT,under kingsize blanket,2021-03-30 23:38:41,very excited announce ambassador honored working alongside help increase visibility acce,0,"['☺', '️', '🎉']",3,23,1,88,3,1,30,evening,41,0.002981599721100411,0.9999955550216727
+399,ATT,USA,2021-03-30 23:38:29,this true friend working att told thing,0,[],3,23,1,39,0,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+401,ATTHelp,,2021-03-30 23:58:11,happy help please detail error message receiving,0,[],3,23,1,48,0,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+402,ATTHelp,,2021-03-30 23:55:41,experience want look together gilp,1,[],3,23,0,34,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+403,ATTHelp,,2021-03-30 23:54:59,hello experience want customer please use tool,1,[],3,23,0,46,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+404,ATTHelp,,2021-03-30 23:48:55,understand frustration want help please meet get started carlosc,1,[],3,23,0,64,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+405,ATTHelp,"Los Angeles, Ca.",2021-03-30 23:48:41,dealing billing issue regarding incorrect device fee why ha been,1,[],3,23,0,64,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+406,ATTHelp,VA,2021-03-30 23:47:14,service dow help,1,[],3,23,0,16,0,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+407,ATTHelp,"Louisiana, USA",2021-03-30 23:47:12,yeah app also tnt apps also,1,[],3,23,0,27,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+408,ATTHelp,,2021-03-30 23:43:49,frank help please send share detail take look,1,[],3,23,0,45,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+409,ATTHelp,,2021-03-30 23:41:28,hey stephen hear please try troubleshooting app meet,1,[],3,23,0,52,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+410,ATTHelp,,2021-03-30 23:39:47,help figure george please meet service type get work mariag,1,[],3,23,0,59,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+411,ATTHelp,"Georgia, USA",2021-03-30 23:37:11,pay additional fee watch fox sport south southeast purchase choice package included,1,[],3,23,0,83,0,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+412,ATTHelp,,2021-03-30 23:37:10,hello jay understand frustration please share service type work thr,1,[],3,23,0,67,0,1,30,evening,10,0.0007272204575659147,0.9999997355751681
+413,ATTHelp,,2021-03-30 23:34:26,thanks sharing please shoot detail experiencing,1,[],3,23,1,47,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+414,ATTHelp,,2021-03-30 23:33:57,help please share detail going broadb,1,[],3,23,0,37,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+415,ATTHelp,,2021-03-30 23:33:35,hello see want help tool check outage area,1,[],3,23,0,42,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+416,ATTHelp,"Bakersfield, CA",2021-03-30 23:31:24,what going screen screen shrinking small picture left top corner every channel,1,[],3,23,1,78,0,1,30,evening,24,0.0017453283658983088,0.9999984769132877
+417,ATTHelp,,2021-03-30 23:27:55,want keep family together douglas please connect via,1,[],3,23,0,52,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+418,ATTHelp,Osage and Otoe-Missouria land,2021-03-30 23:26:41,others know fulfilling offer sent back two good working phone dis,1,[],3,23,1,65,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+419,ATTHelp,,2021-03-30 23:18:57,hey tracey thanks bringing attention reach take close,1,[],3,23,1,53,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+420,ATTHelp,"Clinton Township, MI",2021-03-30 23:17:04,purchased hulu live signal suck live channel hulu keep buffering wtf,0,[],3,23,-1,68,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+421,ATTHelp,"Atlanta, GA",2021-03-30 23:16:57,will,1,[],3,23,0,4,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+422,ATTHelp,"Dallas, TX",2021-03-30 23:11:46,how worrying better coverage,1,['\U0001f972'],3,23,1,28,1,1,30,evening,46,0.003345208160578313,0.9999944047755279
+423,ATTHelp,"Stockholm, Sweden",2021-03-30 23:01:49,yes time daily talk crap fix issue tweet guy communicate,1,[],3,23,-1,56,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+424,ATTHelp,Santa Barbara,2021-03-30 22:59:06,maybe try reading tweet that could problem,1,[],3,22,0,42,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+425,ATTHelp,,2021-03-30 22:58:08,seeing issue end try logging troubleshoot,1,[],3,22,0,41,0,1,30,evening,8,0.0005817763845130675,0.999999830768105
+426,ATTHelp,"Anaheim, CA",2021-03-30 22:57:48,omg fucking hate ive transfered time hung twice,0,[],3,22,-1,47,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+427,ATTHelp,"Stockholm, Sweden",2021-03-30 22:54:15,hey supporting sedition supporting voter suppression think need cancel account,1,[],3,22,1,78,0,1,30,evening,15,0.0010908305661643995,0.999999405044161
+428,ATTHelp,,2021-03-30 22:52:59,you people even put fios wire ground since last year fcc,1,[],3,22,0,56,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+429,ATTHelp,"Stockholm, Sweden",2021-03-30 22:52:20,wondering coverage like northern part lopez island fast speed,0,[],3,22,1,61,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+430,ATTHelp,Santa Barbara,2021-03-30 22:48:19,how open transparent conversation why need zip code,1,[],3,22,0,51,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+431,ATTHelp,"Miami, FL",2021-03-30 22:42:26,nearly responsive spent hour phone today trying get resolved,1,[],3,22,0,60,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+432,ATTHelp,,2021-03-30 22:34:27,sorry loss please meet talk thing help turn experi,0,[],3,22,-1,50,0,1,30,evening,27,0.0019634941468452357,0.9999980723435097
+433,ATTHelp,,2021-03-30 22:33:32,wes send contact information get front right team,0,[],3,22,1,49,0,1,30,evening,32,0.0023271035689502685,0.9999972922908238
+434,ATTHelp,,2021-03-30 22:28:50,understand importance getting spam message thanks sharing,1,[],3,22,1,57,0,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+435,ATTHelp,"Stockholm, Sweden",2021-03-30 22:24:46,keep getting sent ashrion automated system then hang need tech support asap,1,[],3,22,0,75,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+436,ATTHelp,,2021-03-30 22:24:31,learn check download wireless usage get detail data call text record device using,1,[],3,22,0,81,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+437,ATTHelp,🛩,2021-03-30 22:24:16,sure,0,[],3,22,1,4,0,1,30,evening,16,0.001163552572115895,0.9999993230724769
+438,ATTHelp,,2021-03-30 22:23:14,give hand learn block unwanted call message,1,[],3,22,0,43,0,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+440,ATTHelp,,2021-03-30 22:18:41,check causing please zip code get started meantime try using,1,[],3,22,0,60,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+441,ATTHelp,,2021-03-30 22:17:49,welcome family eli reach ever need anything always happy help,0,[],3,22,1,61,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+442,ATTHelp,"Stockholm, Sweden",2021-03-30 22:17:00,little hour still waiting expert eager help,1,[],3,22,-1,43,0,1,30,evening,0,0.0,1.0
+443,ATTHelp,,2021-03-30 22:06:12,help ready share detail look,1,[],3,22,1,28,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+444,ATTHelp,,2021-03-30 21:54:21,hello george thanks reaching please click check service alert area,1,[],3,21,1,66,0,1,30,evening,21,0.0015271625018799095,0.9999988338866665
+445,ATTHelp,,2021-03-30 21:53:41,shawn want turn experience around tell happened,1,[],3,21,0,47,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+446,ATTHelp,"Nashville, TN",2021-03-30 21:49:57,routinely astonished company like reliable service technology per,1,[],3,21,0,65,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+447,TMobileHelp,"Stockholm, Sweden",2021-03-30 21:49:31,working tornado victim newnan local internet provider still,1,[],3,21,-1,59,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+448,ATTHelp,,2021-03-30 21:49:07,jimmy problem lost iphone mine been month keep,1,[],3,21,0,46,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+449,ATTHelp,"San Diego, CA",2021-03-30 21:49:06,told october would getting mbps well march keep doin,1,[],3,21,0,52,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+450,ATTHelp,,2021-03-30 21:47:46,understand coming please connect via talk thing sebast,1,[],3,21,0,54,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+451,ATTHelp,"San Diego, CA",2021-03-30 21:47:13,complain umpteenth million time issue started october signed,1,[],3,21,0,60,0,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+452,ATTHelp,Santa Barbara,2021-03-30 21:45:01,wireless save day argument wrong,0,"['""', '""']",3,21,-1,32,2,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+453,ATTHelp,Santa Barbara,2021-03-30 21:44:47,for additional context also tried internet option different,0,[],3,21,0,59,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+454,ATTHelp,,2021-03-30 21:42:54,our team would like look bevan can send private message best contact,1,[],3,21,1,68,0,1,30,evening,54,0.0039269807238059996,0.9999922893814706
+455,ATTHelp,Santa Barbara,2021-03-30 21:40:29,topped around mbps and hit cap anywhere mbps,1,[],3,21,0,44,0,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+456,ATTHelp,Santa Barbara,2021-03-30 21:38:39,office meeting drop rain heavily call drop also pay fastest,1,[],3,21,-1,59,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+457,ATTHelp,Santa Barbara,2021-03-30 21:36:03,tell work home rural area need fiber currently spend,1,[],3,21,0,52,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+458,ATTHelp,Santa Barbara,2021-03-30 21:34:06,respectfully understanding need speed rural area,1,[],3,21,1,48,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+459,ATTHelp,,2021-03-30 21:29:05,your internet service matter send detials take look,1,[],3,21,0,51,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+460,ATTHelp,,2021-03-30 21:23:38,understand frustration wait line want step sarah please share,1,[],3,21,0,61,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+461,ATTHelp,Seattle,2021-03-30 21:16:40,sent thanks,1,[],3,21,1,11,0,1,30,evening,40,0.0029088779843619342,0.9999957692054863
+462,ATTHelp,,2021-03-30 21:16:05,hello thanks reaching would happy help please meet account detail,0,[],3,21,1,65,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+463,ATTHelp,,2021-03-30 21:13:32,hey jonathan want help meet detail take look together lor,1,[],3,21,0,57,0,1,30,evening,32,0.0023271035689502685,0.9999972922908238
+464,ATTHelp,,2021-03-30 21:12:46,send detail service type take look gabrielac,1,[],3,21,0,44,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+465,ATTHelp,"Fairbanks, AK",2021-03-30 21:12:00,not bundled combined just wireless account,1,[],3,21,0,42,0,1,30,evening,0,0.0,1.0
+466,ATTHelp,"New Buffalo, United States",2021-03-30 21:09:33,yes time daily talk crap fix issue tweet guy comm,1,[],3,21,-1,49,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+467,ATTHelp,,2021-03-30 21:06:25,hey supporting sedition supporting voter suppression think need cancel account,1,[],3,21,1,78,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+468,ATTHelp,Seattle,2021-03-30 21:05:49,wondering coverage like northern part lopez island fast,0,[],3,21,1,55,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+469,ATTHelp,Oklahoma,2021-03-30 21:05:41,unlimited wish like cellular limit mobile hotspot speed cause,1,[],3,21,0,61,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+470,ATTHelp,"Stockholm, Sweden",2021-03-30 21:05:35,how get log help subscription big problem logging help,1,[],3,21,0,54,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+471,ATTHelp,,2021-03-30 21:04:10,work keep family together michelle please meet via help clear thin,0,[],3,21,-1,66,0,1,30,evening,10,0.0007272204575659147,0.9999997355751681
+472,ATTHelp,"Chicago, IL",2021-03-30 21:00:16,learn check download wireless usage get detail data call text record device using,1,[],3,21,0,81,0,1,30,evening,16,0.001163552572115895,0.9999993230724769
+473,ATTHelp,,2021-03-30 21:00:01,learn check download wireless usage get detail data call text record,1,[],3,21,0,68,0,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+474,ATTHelp,,2021-03-30 20:59:42,jennifer want take look please send detail going help elexxiar,1,[],3,20,0,62,0,1,30,evening,42,0.0030543214420707073,0.9999953355493857
+475,ATTHelp,Calhoun - GA,2021-03-30 20:54:35,keep getting sent ashrion automated system then hang need tech support asap,1,[],3,20,0,75,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+476,ATTHelp,,2021-03-30 20:51:08,little hour still waiting expert eager help,1,[],3,20,-1,43,0,1,30,evening,8,0.0005817763845130675,0.999999830768105
+477,TMobileHelp,"Atlanta, GA",2021-03-30 20:41:31,working tornado victim newnan local internet provider,1,[],3,20,-1,53,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+478,ATTHelp,OK,2021-03-30 20:39:31,fourth month back customer service drove neve,1,[],3,20,0,45,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+479,ATTHelp,,2021-03-30 20:38:02,want help internet connection send detail get started,1,[],3,20,0,53,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+480,ATTHelp,,2021-03-30 20:32:03,hey know important strong connection meet look serv,0,[],3,20,1,51,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+481,ATTHelp,,2021-03-30 20:27:17,want help improve connectivity use tool troubleshoot device,1,[],3,20,0,59,0,1,30,evening,17,0.0012362745719139464,0.9999992358122994
+482,ATTHelp,"Stockholm, Sweden",2021-03-30 20:22:21,working since nov receive credit att phone call ema,1,[],3,20,0,51,0,1,30,evening,21,0.0015271625018799095,0.9999988338866665
+483,ATTHelp,"Boulder, CO",2021-03-30 20:21:16,how get log help subscription big problem logging help,1,[],3,20,0,54,0,1,30,evening,16,0.001163552572115895,0.9999993230724769
+484,ATTHelp,,2021-03-30 20:21:16,already check say outage brand new google pixel,1,[],3,20,1,47,0,1,30,evening,16,0.001163552572115895,0.9999993230724769
+485,ATTHelp,,2021-03-30 20:20:34,help billing ruth please share detail look,1,[],3,20,0,42,0,1,30,evening,34,0.002472547254336248,0.9999969432503657
+486,ATTHelp,,2021-03-30 20:17:41,hey take look service together meet get started brittneyb,1,[],3,20,0,57,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+487,ATTHelp,,2021-03-30 20:17:03,hey got attention please detail help check alejandror,1,[],3,20,0,53,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+488,ATTHelp,,2021-03-30 20:15:52,team help please detail experiencing,1,[],3,20,0,36,0,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+489,ATTHelp,ATX,2021-03-30 20:14:32,still waiting department contact nearly eod day trying get assistance,1,[],3,20,1,69,0,1,30,evening,32,0.0023271035689502685,0.9999972922908238
+490,TMobile,"Stockholm, Sweden",2021-03-30 20:07:17,tmobile looking pretty good right plus would get mlb membership,0,[],3,20,1,63,0,1,30,evening,17,0.0012362745719139464,0.9999992358122994
+491,ATTHelp,,2021-03-30 20:04:18,charles appreciate loyalty please meet take closer look,1,[],3,20,0,55,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+492,ATTHelp,,2021-03-30 20:04:05,understand concern want look option please,1,[],3,20,0,42,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+493,ATTHelp,,2021-03-30 20:02:56,mitch want help please send detail service type bill question,1,[],3,20,0,61,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+494,ATT,"Gaffney, SC",2021-03-30 19:59:53,short upgrading line give think much,1,[],3,19,1,36,0,1,30,evening,53,0.003854259222051758,0.9999925723153393
+495,ATTHelp,,2021-03-30 19:57:34,hey want see leave jeffrey connect take look,1,[],3,19,0,44,0,1,30,evening,34,0.002472547254336248,0.9999969432503657
+496,ATTHelp,NEW YORK CITY/MIAMI 📍,2021-03-30 19:57:00,now canceled appointment terrible service long time customer,0,[],3,19,-1,60,0,1,30,evening,0,0.0,1.0
+497,ATTHelp,"Chicago, IL USA",2021-03-30 19:54:57,working since nov receive credit att phone call,1,[],3,19,0,47,0,1,30,evening,57,0.004145145102923426,0.999991408849134
+498,ATTHelp,United States,2021-03-30 19:53:28,nah gonna end contract enjoy fiber internet though but since,1,[],3,19,1,60,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+499,ATTHelp,,2021-03-30 19:49:00,want help meet look billing together shanyariah,1,[],3,19,0,47,0,1,30,evening,0,0.0,1.0
+500,TMobile,"Dallas, Texas",2021-03-30 23:59:57,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,57,0.004145145102923426,0.999991408849134
+501,TMobile,"North Carolina, USA",2021-03-30 23:59:53,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,53,0.003854259222051758,0.9999925723153393
+502,TMobile,,2021-03-30 23:59:45,bought new phone frm issue week later problem contact customer support new phone,1,[],3,23,1,80,0,1,30,evening,45,0.0032724865065266256,0.9999946454016965
+503,TMobile,,2021-03-30 23:59:45,great work community,0,[],3,23,1,20,0,1,30,evening,45,0.0032724865065266256,0.9999946454016965
+504,TMobile,,2021-03-30 23:59:44,committed providing reliable service need stay connected please send,1,[],3,23,0,68,0,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+505,TMobile,"Warren County, MO",2021-03-30 23:59:43,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,43,0.003127043146888234,0.9999951107886266
+506,TMobile,"Michigan, USA",2021-03-30 23:59:42,went tmobile finally got screen protector replaced already chip,0,['😤'],3,23,0,63,1,1,30,evening,42,0.0030543214420707073,0.9999953355493857
+507,TMobile,Chicagoland,2021-03-30 23:59:36,why phone call dropping text sending what paying,1,[],3,23,0,48,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+509,TMobile,,2021-03-30 23:59:11,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+510,TMobile,,2021-03-30 23:58:46,𝐓𝐇𝐄 𝐋𝐄𝐀𝐃𝐄𝐑,1,[],3,23,0,10,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+511,TMobile,"Honolulu,HI  & Chicago, IL",2021-03-30 23:58:44,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+512,TMobile,"California, USA",2021-03-30 23:58:40,alright true this time,0,[],3,23,1,22,0,1,30,evening,40,0.0029088779843619342,0.9999957692054863
+513,TMobile,,2021-03-30 23:58:26,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,26,0.0018907722297340735,0.99999821248859
+514,TMobile,,2021-03-30 23:58:10,stop give deserve android,1,[],3,23,0,25,0,1,30,evening,10,0.0007272204575659147,0.9999997355751681
+515,TMobile,"Texas, USA",2021-03-30 23:57:46,swapping prank thanks all gotta tweet each tweet,1,['👏'],3,23,1,48,1,1,30,evening,46,0.003345208160578313,0.9999944047755279
+516,TMobile,,2021-03-30 23:57:44,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+517,TMobile,,2021-03-30 23:57:43,helping people need,1,[],3,23,0,19,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+518,TMobile,"Denver, CO",2021-03-30 23:57:43,donate,1,[],3,23,0,6,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+519,TMobile,"California, USA",2021-03-30 23:57:38,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,38,0.002763434465118793,0.9999961817076888
+520,TMobile,NYC/Vermont,2021-03-30 23:57:20,hosting another twitter party tonight follow along gift,1,[],3,23,0,55,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+521,TMobile,"Puerto Rico, USA",2021-03-30 23:57:14,thank,1,['🤟'],3,23,0,5,1,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+522,TMobile,"Chandler, AZ",2021-03-30 23:57:09,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,9,0.0006544984227701476,0.9999997858158843
+523,TMobile,Chicago IL,2021-03-30 23:57:05,yea redeemed mine got subscription either,1,[],3,23,0,41,0,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+524,TMobile,"Tallahassee, FL",2021-03-30 23:56:53,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,53,0.003854259222051758,0.9999925723153393
+525,TMobile,"Washington, DC",2021-03-30 23:56:50,resolving pain point thing join force downstairs marley station find soluti,1,[],3,23,0,75,0,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+526,TMobile,,2021-03-30 23:56:29,thank going extra mile you amazing true inspiration,0,"['❤', '❤', '❤']",3,23,1,51,3,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+527,TMobileHelp,ohio,2021-03-30 23:56:19,fair getting rid tvision paid new firesticks servi,0,[],3,23,1,50,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+528,TMobile,"Philadelphia, PA",2021-03-30 23:56:15,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,15,0.0010908305661643995,0.999999405044161
+529,TMobile,Austin TX,2021-03-30 23:56:07,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+530,TMobile,,2021-03-30 23:56:05,your new updated site mobile tuesday doesnt work,1,['😡'],3,23,1,48,1,1,30,evening,5,0.00036361025281985316,0.9999999338937898
+531,TMobile,Licensed in Florida.,2021-03-30 23:56:02,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+533,TMobile,"Wichita, KS",2021-03-30 23:55:44,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+534,TMobile,"Houston, Texas",2021-03-30 23:55:43,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,43,0.003127043146888234,0.9999951107886266
+536,TMobile,,2021-03-30 23:55:33,internet want contact hour time cancel,1,[],3,23,0,38,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+537,TMobile,,2021-03-30 23:55:12,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+538,TMobile,,2021-03-30 23:55:11,crossing finger win,1,['🤞'],3,23,1,19,1,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+540,TMobile,,2021-03-30 23:55:00,,1,[],3,23,0,0,0,1,30,evening,0,0.0,1.0
+541,TMobile,"El Paso, TX",2021-03-30 23:54:58,congratulation,1,[],3,23,0,14,0,1,30,evening,58,0.004217866519298844,0.99999110476145
+542,TMobile,Maine,2021-03-30 23:54:56,need coverage sidney central maine concert venue,1,[],3,23,0,48,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+543,TMobile,they/them • 23,2021-03-30 23:54:56,thank yea mom tmobile guy helping trying flirt asking,1,[],3,23,0,53,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+544,TMobile,,2021-03-30 23:54:49,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,49,0.0035633730150482867,0.999993651166224
+545,TMobile,,2021-03-30 23:54:31,tap this not prank for every tweet give classroom need,1,['🎤'],3,23,0,54,1,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+546,TMobile,"Cincinnati, Oh",2021-03-30 23:54:07,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+547,TMobile,,2021-03-30 23:54:01,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+548,TMobile,,2021-03-30 23:53:57,tap this not prank for every tweet give classroom need,1,['🎤'],3,23,0,54,1,1,30,evening,57,0.004145145102923426,0.999991408849134
+549,TMobile,"Antigonish, Nova Scotia",2021-03-30 23:53:56,think sharing joy mlb customer pete,1,[],3,23,1,35,0,1,30,evening,56,0.004072423664626422,0.9999917076483663
+550,TMobile,Florida,2021-03-30 23:53:52,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+551,TMobile,,2021-03-30 23:53:43,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,43,0.003127043146888234,0.9999951107886266
+552,TMobile,"Shawnee, KS",2021-03-30 23:53:41,retweeted love,0,[],3,23,1,14,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+553,TMobile,,2021-03-30 23:53:32,focusing lowband deployment coverage moment eta yet midband deployment,1,[],3,23,0,70,0,1,30,evening,32,0.0023271035689502685,0.9999972922908238
+554,TMobile,"Boston, MA",2021-03-30 23:53:32,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,32,0.0023271035689502685,0.9999972922908238
+555,TMobile,Florida,2021-03-30 23:53:29,tap this not prank for every tweet give classroom need,1,['🎤'],3,23,0,54,1,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+556,TMobile,"Bronx, New York",2021-03-30 23:53:08,thanks,1,[],3,23,1,6,0,1,30,evening,8,0.0005817763845130675,0.999999830768105
+558,TMobile,,2021-03-30 23:53:04,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+559,TMobile,"Seattle, WA",2021-03-30 23:53:00,actually charging protection sold including apple care,1,[],3,23,0,54,0,1,30,evening,0,0.0,1.0
+560,TMobile,,2021-03-30 23:52:51,the retail industry undergoing major transformation with fast reliable network expect improved,0,['📦'],3,23,1,94,1,1,30,evening,51,0.003708816157778148,0.9999931223177027
+561,TMobile,"Downey, CA",2021-03-30 23:52:50,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+562,TMobile,"St Louis, MO",2021-03-30 23:52:48,spamming,1,[],3,23,0,8,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+563,TMobile,,2021-03-30 23:52:38,thank god vpn,1,[],3,23,0,13,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+564,TMobile,"Shawnee, KS",2021-03-30 23:52:34,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,34,0.002472547254336248,0.9999969432503657
+565,TMobile,,2021-03-30 23:52:13,tap this not prank for every tweet give classroom need,1,['🎤'],3,23,0,54,1,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+566,TMobile,"Detroit,Michigan ",2021-03-30 23:51:41,swapping prank thanks all gotta tweet each tweet,1,['👏'],3,23,1,48,1,1,30,evening,41,0.002981599721100411,0.9999955550216727
+567,TMobile,,2021-03-30 23:51:39,great hear jennifer silveira talk journey technology internal,1,[],3,23,1,61,0,1,30,evening,39,0.0028361562322398656,0.9999959781008253
+568,TMobile,,2021-03-30 23:51:33,thanks teacher deserving,1,[],3,23,1,24,0,1,30,evening,33,0.0023998254179889928,0.9999971204148356
+569,TMobile,"Louisville, KY",2021-03-30 23:51:22,veteran discount pain as use the hassle make want cha,1,[],3,23,0,53,0,1,30,evening,22,0.0015998844651418896,0.9999987201840301
+570,TMobile,"Nashville, TN",2021-03-30 23:50:52,got another brawl hand round connected inked,1,[],3,23,-1,44,0,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+571,TMobile,,2021-03-30 23:50:13,account eligible migrated tmobile,1,[],3,23,0,33,0,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+572,TMobile,"Virginia, USA",2021-03-30 23:49:55,damnit making best streaming service killing sticking,1,[],3,23,1,53,0,1,30,evening,55,0.003999702204792417,0.9999920011591458
+573,TMobile,,2021-03-30 23:49:43,tap this not prank for every tweet give classroom need,1,['🎤'],3,23,0,54,1,1,30,evening,43,0.003127043146888234,0.9999951107886266
+574,TMobile,"Independence, mo",2021-03-30 23:49:35,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+575,TMobileHelp,,2021-03-30 23:49:28,how long take account migrate tmobile fully,1,[],3,23,-1,43,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+576,TMobile,Minneapolis by way of Chi-Town,2021-03-30 23:49:17,just worst customer service experience golden valley the agent talked,0,[],3,23,-1,69,0,1,30,evening,17,0.0012362745719139464,0.9999992358122994
+579,TMobile,"Chicago, IL",2021-03-30 23:49:03,give please,1,[],3,23,0,11,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+580,TMobile,,2021-03-30 23:48:54,thanks prank,1,[],3,23,1,12,0,1,30,evening,54,0.0039269807238059996,0.9999922893814706
+581,TMobile,"Dallas, TX",2021-03-30 23:48:49,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,49,0.0035633730150482867,0.999993651166224
+582,TMobileHelp,,2021-03-30 23:48:40,long time loyal customer get taken care instead needing stalk web,0,[],3,23,1,65,0,1,30,evening,40,0.0029088779843619342,0.9999957692054863
+583,TMobile,"Laurel, MD",2021-03-30 23:48:26,hanging downstairs marley station fun bringing love customer experien,1,[],3,23,1,69,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+584,TMobile,"Pennsylvania, USA",2021-03-30 23:48:12,day made the infamous,0,"['🙌', '🏼', '👇', '🏼', '👇', '🏼', '👇', '🏼']",3,23,-1,21,8,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+585,TMobile,"Laurel, MD",2021-03-30 23:48:03,tap this not prank for every tweet give classroom need,1,['🎤'],3,23,0,54,1,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+586,TMobile,,2021-03-30 23:48:03,give thanks not prank,1,[],3,23,1,21,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+587,TMobile,"Laurel, MD",2021-03-30 23:47:41,resolving pain point thing join force downstairs marley station find soluti,1,[],3,23,0,75,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+588,TMobile,"Rockville, MD",2021-03-30 23:47:37,tuesday better celebrate popping jackson tennessee surprise delight,1,[],3,23,1,67,0,1,30,evening,37,0.002690712683383306,0.9999963800260756
+589,TMobileHelp,Chicago,2021-03-30 23:47:35,find incompetent chat agent they verify time,1,[],3,23,-1,44,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+590,TMobile,Somewhere in GA,2021-03-30 23:47:20,shoutout teacher still pushing thru pandemic,1,"['👏', '🏾', '👏', '🏾', '👏', '🏾']",3,23,0,44,6,1,30,evening,20,0.001454440530541535,0.9999989423008122
+591,TMobile,,2021-03-30 23:47:13,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+592,TMobile,"Laurel, MD",2021-03-30 23:47:12,know big risk mean big reward encourage team you might end like,1,[],3,23,-1,63,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+593,TMobile,"Colorado Springs, CO",2021-03-30 23:47:10,yeah considering value pretty ballin,0,[],3,23,1,36,0,1,30,evening,10,0.0007272204575659147,0.9999997355751681
+594,TMobile,"Ohio, USA",2021-03-30 23:47:03,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+595,TMobile,,2021-03-30 23:47:00,keep good work,0,[],3,23,1,14,0,1,30,evening,0,0.0,1.0
+596,TMobile,,2021-03-30 23:46:46,over million cell tower mapped using studio time,1,[],3,23,0,48,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+597,TMobile,,2021-03-30 23:46:45,tap this not year prank donating every tweet,1,['🎤'],3,23,0,44,1,1,30,evening,45,0.0032724865065266256,0.9999946454016965
+598,TMobile,"Las Vegas, NV",2021-03-30 23:46:36,foley say currently capacity tmobile arena right they working proof vaccination plan,1,[],3,23,1,84,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+599,TMobile,"Philadelphia, PA",2021-03-30 23:46:28,,1,[],3,23,0,0,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+600,TMobileHelp,"Bellevue, WA",2021-03-30 23:59:31,always happy check coverage anytime assistance rachaelt,0,[],3,23,1,55,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+601,TMobileHelp,"Charlotte, NC",2021-03-30 23:58:41,ahh tvision not plan,1,[],3,23,0,20,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+602,TMobileHelp,"Bellevue, WA",2021-03-30 23:56:41,love help please send may assist rubenhernandez,0,[],3,23,1,47,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+603,TMobileHelp,ohio,2021-03-30 23:56:19,fair getting rid tvision paid new firesticks servi,0,[],3,23,1,50,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+604,TMobileHelp,"Bellevue, WA",2021-03-30 23:55:54,eligible tvision service subscriber find unique offer link account,0,[],3,23,1,66,0,1,30,evening,54,0.0039269807238059996,0.9999922893814706
+605,TMobileHelp,"Bellevue, WA",2021-03-30 23:55:07,thanks reaching concern never intention provide,1,[],3,23,1,47,0,1,30,evening,7,0.0005090543431792651,0.9999998704318295
+606,TMobileHelp,"Bellevue, WA",2021-03-30 23:54:36,hello thanks contacting today definitely want get figu,1,[],3,23,1,54,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+607,TMobileHelp,"Bellevue, WA",2021-03-30 23:52:47,want ensure switch one military plan ease send,1,[],3,23,-1,46,0,1,30,evening,47,0.0034179297969388783,0.9999941588608922
+608,TMobileHelp,Taylor Texas,2021-03-30 23:52:14,excuse start nationwide service end month and,1,[],3,23,-1,45,0,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+609,TMobileHelp,Taylor Texas,2021-03-30 23:50:18,sound like excuse,1,[],3,23,1,17,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+610,TMobileHelp,,2021-03-30 23:49:28,how long take account migrate tmobile fully,1,[],3,23,-1,43,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+611,TMobileHelp,"Charlotte, NC",2021-03-30 23:49:12,how get promo code youtube where sign,1,[],3,23,0,37,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+612,TMobileHelp,"Bellevue, WA",2021-03-30 23:49:10,want feel confident everything coming change check offici,0,[],3,23,1,57,0,1,30,evening,10,0.0007272204575659147,0.9999997355751681
+613,TMobileHelp,,2021-03-30 23:48:40,long time loyal customer get taken care instead needing stalk web,0,[],3,23,1,65,0,1,30,evening,40,0.0029088779843619342,0.9999957692054863
+614,TMobileHelp,"Stockholm, Sweden",2021-03-30 23:48:21,hey why customer service consistently terrible everytime ever contact,0,[],3,23,-1,69,0,1,30,evening,21,0.0015271625018799095,0.9999988338866665
+616,TMobileHelp,Chicago,2021-03-30 23:47:35,find incompetent chat agent they verify time,1,[],3,23,-1,44,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+617,TMobileHelp,,2021-03-30 23:47:15,our friend able help redeem subscription,0,[],3,23,1,40,0,1,30,evening,15,0.0010908305661643995,0.999999405044161
+618,TMobileHelp,"Bellevue, WA",2021-03-30 23:46:48,awesome bridget wren,0,[],3,23,1,20,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+619,TMobileHelp,"Bellevue, WA",2021-03-30 23:46:46,hey bill great question would love help get thanked today send help conniemixson,0,[],3,23,1,80,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+620,TMobileHelp,"Bellevue, WA",2021-03-30 23:45:17,take promise reach back serious you came right place,1,[],3,23,-1,52,0,1,30,evening,17,0.0012362745719139464,0.9999992358122994
+621,TMobileHelp,where ever the $$ at,2021-03-30 23:45:09,fixed thank,1,[],3,23,1,11,0,1,30,evening,9,0.0006544984227701476,0.9999997858158843
+622,TMobileHelp,Shapeshifting,2021-03-30 23:44:06,idea latest alert message tvision mean way find exactly tvision ending,0,[],3,23,1,70,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+623,TMobileHelp,"Bellevue, WA",2021-03-30 23:43:46,hello jim want feel team would love opportunity,0,[],3,23,1,47,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+624,TMobileHelp,"Bellevue, WA",2021-03-30 23:43:38,having service need stay connected place matter,1,[],3,23,0,47,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+625,TMobileHelp,"Bellevue, WA",2021-03-30 23:41:38,hello thank reaching any sprint metro customer qualifying,1,[],3,23,0,57,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+626,TMobileHelp,"Bellevue, WA",2021-03-30 23:39:52,important great experience throughout support chan,0,[],3,23,1,50,0,1,30,evening,52,0.0037815376999142786,0.9999928499607506
+627,TMobileHelp,"Bellevue, WA",2021-03-30 23:38:28,tvision never building business building home internet,1,['–'],3,23,0,54,1,1,30,evening,28,0.002036216053572466,0.9999979269099427
+628,TMobileHelp,"Bellevue, WA",2021-03-30 23:36:54,care experience know important information,0,[],3,23,1,42,0,1,30,evening,54,0.0039269807238059996,0.9999922893814706
+629,TMobileHelp,"Bellevue, WA",2021-03-30 23:33:25,lot great exciting offer claim today josh send way question,0,[],3,23,1,59,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+630,TMobileHelp,"Bellevue, WA",2021-03-30 23:27:49,appreciate ten year great offer going alwa,1,[],3,23,1,42,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+631,TMobileHelp,"Bellevue, WA",2021-03-30 23:26:44,want make sure everything working correct send help anything conniemixson,0,[],3,23,1,73,0,1,30,evening,44,0.0031997648351684022,0.9999948807393964
+632,TMobileHelp,"Stockholm, Sweden",2021-03-30 23:26:42,phone service least minute home internet going,1,[],3,23,-1,46,0,1,30,evening,42,0.0030543214420707073,0.9999953355493857
+633,TMobileHelp,"Bellevue, WA",2021-03-30 23:26:26,yikes bummed happy get thanked offer want make sure get,0,[],3,23,1,55,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+634,TMobileHelp,"Bellevue, WA",2021-03-30 23:24:30,would love dive service together get start send austinhamilton,0,[],3,23,1,62,0,1,30,evening,30,0.0021816598343367697,0.9999976201773518
+635,TMobileHelp,"Bellevue, WA",2021-03-30 23:23:41,able redeem offer tuesday please send need assistance jorgegarcia,0,[],3,23,1,65,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+636,TMobileHelp,,2021-03-30 23:22:41,our friend able help redeem subscription,0,[],3,23,1,40,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+637,TMobileHelp,Taylor Texas,2021-03-30 23:22:15,want say thank screwing exceptional record tvis,0,[],3,23,1,47,0,1,30,evening,15,0.0010908305661643995,0.999999405044161
+638,TMobileHelp,,2021-03-30 23:21:26,let get straight local store convinces buy tvision hub,1,[],3,23,1,54,0,1,30,evening,26,0.0018907722297340735,0.99999821248859
+639,TMobileHelp,"Bellevue, WA",2021-03-30 23:21:12,hey love help redeem offer send assist marissachavez,0,[],3,23,1,52,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+640,TMobileHelp,"Bellevue, WA",2021-03-30 23:19:31,help want thing easy possible send wor,0,[],3,23,1,38,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+641,TMobileHelp,"Bellevue, WA",2021-03-30 23:19:25,hey want best service possible please send,0,[],3,23,1,42,0,1,30,evening,25,0.0018180503026235678,0.9999983473451829
+642,TMobileHelp,"Bellevue, WA",2021-03-30 23:19:19,hey happy look send thanks courtneywest,0,[],3,23,1,39,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+643,TMobileHelp,"dallas, texas",2021-03-30 23:19:04,sent detail,1,[],3,23,0,11,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+644,TMobileHelp,"Bellevue, WA",2021-03-30 23:19:01,shoot please check option use tool available get,1,[],3,23,1,48,0,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+645,TMobileHelp,"Bellevue, WA",2021-03-30 23:18:03,meet back atif victoriapollard,1,[],3,23,0,30,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+646,TMobileHelp,"Bellevue, WA",2021-03-30 23:16:28,excellent question tvision live live customer get similar better lineup,0,[],3,23,1,71,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
+647,TMobileHelp,,2021-03-30 23:16:16,updated requested hard,0,[],3,23,-1,22,0,1,30,evening,16,0.001163552572115895,0.9999993230724769
+648,TMobileHelp,"Bellevue, WA",2021-03-30 23:16:00,question please hesitate send,1,[],3,23,0,29,0,1,30,evening,0,0.0,1.0
+649,TMobileHelp,,2021-03-30 23:15:43,yeah everything jumping hoop stop selling data this att,1,[],3,23,0,55,0,1,30,evening,43,0.003127043146888234,0.9999951107886266
+650,TMobileHelp,"Bellevue, WA",2021-03-30 23:14:19,this sound like experience strive provide would love take look,1,[],3,23,1,62,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+651,TMobileHelp,"Bellevue, WA",2021-03-30 23:14:02,know important privacy want make sure confident info,0,[],3,23,1,52,0,1,30,evening,2,0.00014544410382007366,0.9999999894230063
+652,TMobileHelp,"Long Island, New York",2021-03-30 23:13:41,,1,[],3,23,0,0,0,1,30,evening,41,0.002981599721100411,0.9999955550216727
+653,TMobileHelp,"Stockholm, Sweden",2021-03-30 23:13:19,referred guy fan support removed email address,1,[],3,23,0,46,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+654,TMobileHelp,"Bellevue, WA",2021-03-30 23:13:15,care experience our team one stop shop come ensuring question,1,[],3,23,0,61,0,1,30,evening,15,0.0010908305661643995,0.999999405044161
+655,TMobileHelp,"Orlando, FL",2021-03-30 23:12:19,trying get stop billing month even though left service june,1,[],3,23,0,59,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+656,TMobileHelp,,2021-03-30 23:12:14,how help allowing exchange brand new phone literally trying buy,1,[],3,23,1,63,0,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+657,TMobileHelp,"New Haven, CT",2021-03-30 23:12:00,got letter mail today want sincerely apologize,1,[],3,23,1,46,0,1,30,evening,0,0.0,1.0
+658,TMobileHelp,,2021-03-30 23:11:29,keeping longtime customer joke,1,"['😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😂', '😁', '😂']",3,23,0,30,14,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+659,TMobileHelp,Baltimore,2021-03-30 23:11:21,sim card swap fucking stupid might caught cancer stupid shit,0,[],3,23,-1,60,0,1,30,evening,21,0.0015271625018799095,0.9999988338866665
+660,TMobileHelp,"Bellevue, WA",2021-03-30 23:09:31,able redeem offer tuesday please send team,0,[],3,23,1,42,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+661,TMobileHelp,Columbia SC,2021-03-30 23:09:14,called mobile since switched sim card sprint service terrible,0,['🗑'],3,23,-1,61,1,1,30,evening,14,0.0010181085544440501,0.9999994817273514
+662,TMobileHelp,Indiana,2021-03-30 23:08:46,new service going lineup disappointed left hulu,1,[],3,23,-1,47,0,1,30,evening,46,0.003345208160578313,0.9999944047755279
+663,TMobileHelp,,2021-03-30 23:07:36,tried needed research seeing told,1,[],3,23,0,33,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+664,TMobileHelp,"Bellevue, WA",2021-03-30 23:07:31,always want make sure getting service love help plea,0,[],3,23,1,52,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+665,TMobileHelp,"Bellevue, WA",2021-03-30 23:06:51,thanks working replied message meet back alexisdean,1,[],3,23,1,51,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+666,TMobileHelp,"Bellevue, WA",2021-03-30 23:05:51,want make sure getting help need account team,0,[],3,23,1,45,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+667,TMobileHelp,"Bellevue, WA",2021-03-30 23:05:31,great hand team replied meet back alexisdean,1,[],3,23,1,44,0,1,30,evening,31,0.0022543817076046643,0.9999974588783296
+668,TMobileHelp,"Manhattan, NY",2021-03-30 23:05:29,would really love someone help dm,0,[],3,23,1,33,0,1,30,evening,29,0.0021089379495311737,0.9999977761878899
+669,TMobileHelp,"Bellevue, WA",2021-03-30 23:05:06,replied meet back alexisdean,1,[],3,23,0,28,0,1,30,evening,6,0.0004363322991533301,0.9999999048070578
+670,TMobileHelp,"Bellevue, WA",2021-03-30 23:05:04,happy help meet take care asap gabimcginty,0,['😁'],3,23,1,42,1,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+671,TMobileHelp,"Bellevue, WA",2021-03-30 23:05:03,hello want ensure getting phone please send,1,[],3,23,0,43,0,1,30,evening,3,0.00021816615476863465,0.9999999762017642
+672,TMobileHelp,"Manhattan, NY",2021-03-30 23:04:20,would really love someone help dm hour,0,[],3,23,1,38,0,1,30,evening,20,0.001454440530541535,0.9999989423008122
+673,TMobileHelp,"Bellevue, WA",2021-03-30 23:04:11,hey goal provide customer best coverage experience possible,0,[],3,23,1,59,0,1,30,evening,11,0.0007999424885157787,0.9999996800459563
+674,TMobileHelp,"Manhattan, NY",2021-03-30 23:04:00,would really love someone help dm hour can someone please respond,0,[],3,23,1,65,0,1,30,evening,0,0.0,1.0
+675,TMobileHelp,"Bellevue, WA",2021-03-30 23:03:12,want know option available service,1,[],3,23,1,34,0,1,30,evening,12,0.0008726645152351496,0.9999996192282494
+676,TMobileHelp,"Bellevue, WA",2021-03-30 23:02:18,hey thanks taking time reach always want make sure providing best,1,[],3,23,1,65,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+677,TMobileHelp,"Seattle, WA",2021-03-30 23:01:48,going yakima losing entire afternoon productivity,0,[],3,23,0,49,0,1,30,evening,48,0.003490651415223732,0.9999939076577904
+678,TMobileHelp,,2021-03-30 23:01:21,hey need assistance esim,1,[],3,23,0,24,0,1,30,evening,21,0.0015271625018799095,0.9999988338866665
+679,TMobileHelp,"Bellevue, WA",2021-03-30 22:59:42,thanks reaching would love hear experiencing ensure,1,[],3,22,1,51,0,1,30,evening,42,0.0030543214420707073,0.9999953355493857
+680,TMobileHelp,"Bellevue, WA",2021-03-30 22:53:38,want see solid connection along great experience supp,1,[],3,22,1,53,0,1,30,evening,38,0.002763434465118793,0.9999961817076888
+681,TMobileHelp,"Bellevue, WA",2021-03-30 22:53:36,hello care experience would love turn thing around future order,1,[],3,22,1,63,0,1,30,evening,36,0.0026179908874179934,0.9999965730559848
+682,TMobileHelp,"Bellevue, WA",2021-03-30 22:52:13,certainly help get set roger send work together conniemixson,0,[],3,22,1,60,0,1,30,evening,13,0.0009453865373394367,0.9999995531220477
+683,TMobileHelp,"Bellevue, WA",2021-03-30 22:50:59,thanks reaching let know going cellspot return send,1,[],3,22,1,51,0,1,30,evening,59,0.004290587913368087,0.9999907953853163
+684,TMobileHelp,"Bellevue, WA",2021-03-30 22:49:50,sad see would like hear experience let,0,[],3,22,-1,38,0,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+685,TMobileHelp,,2021-03-30 22:49:22,customer service guru please help rectify worst customer experience year,0,[],3,22,-1,72,0,1,30,evening,22,0.0015998844651418896,0.9999987201840301
+686,TMobileHelp,"Stockholm, Sweden",2021-03-30 22:48:51,redeem free subscription think,0,[],3,22,1,30,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+687,TMobileHelp,,2021-03-30 22:45:51,take executive response unit get back regarding missing phone,1,[],3,22,-1,61,0,1,30,evening,51,0.003708816157778148,0.9999931223177027
+688,TMobileHelp,"Bellevue, WA",2021-03-30 22:45:04,one great thing always great promotion going the,0,[],3,22,1,48,0,1,30,evening,4,0.0002908882045634246,0.9999999576920253
+689,TMobileHelp,,2021-03-30 22:42:50,guy keep billing dead mother nearly month since said stop jus,1,[],3,22,-1,61,0,1,30,evening,50,0.0036360945960279547,0.9999933893861943
+690,TMobileHelp,"Orlando, FL",2021-03-30 22:42:18,funny enough took step lmao,0,[],3,22,1,27,0,1,30,evening,18,0.0013089965651739634,0.9999991432636292
+691,TMobileHelp,,2021-03-30 22:42:09,kyle believe could hour ago feel free,0,[],3,22,1,37,0,1,30,evening,9,0.0006544984227701476,0.9999997858158843
+692,TMobileHelp,"Bellevue, WA",2021-03-30 22:41:49,would love magenta side our plan designed provide maximum value includin,0,[],3,22,1,72,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+693,TMobileHelp,"Bellevue, WA",2021-03-30 22:41:35,sad see important signal keep connected,0,[],3,22,-1,39,0,1,30,evening,35,0.0025452690776074445,0.9999967607974151
+694,TMobileHelp,,2021-03-30 22:41:08,hey really need help recently returned equipment charged,1,[],3,22,1,56,0,1,30,evening,8,0.0005817763845130675,0.999999830768105
+695,TMobileHelp,Erie PA,2021-03-30 22:40:49,line though and referring,1,[],3,22,0,25,0,1,30,evening,49,0.0035633730150482867,0.999993651166224
+696,TMobileHelp,"Bellevue, WA",2021-03-30 22:40:01,hey experience super important want make sure help,0,[],3,22,1,50,0,1,30,evening,1,7.272205210233201e-05,0.9999999973557515
+697,TMobileHelp,"Bellevue, WA",2021-03-30 22:39:22,thank reaching today ryan the essential plan autopay,1,[],3,22,0,52,0,1,30,evening,22,0.0015998844651418896,0.9999987201840301
+698,TMobileHelp,"Bellevue, WA",2021-03-30 22:36:19,committed providing reliable service need stay connected please send,1,[],3,22,0,68,0,1,30,evening,19,0.0013817185515113562,0.9999990454264666
+699,TMobileHelp,"Bellevue, WA",2021-03-30 22:35:28,hey berkley experience want goal make sure,0,[],3,22,1,42,0,1,30,evening,28,0.002036216053572466,0.9999979269099427
